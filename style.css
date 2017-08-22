@@ -1,6 +1,7 @@
 body {
 	background-color: #eee;
 	margin: 0 auto;
+	line-height: 150%;
 }
 
 header {
@@ -13,4 +14,5 @@ p {
 	color: #373738;
 	font-size: 16px;
 	text-align: center;
+	padding: 20px;
 }
