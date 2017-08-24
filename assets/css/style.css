@@ -105,6 +105,7 @@ a:visited {
 /*	background-color: #cbff57;*/
 	background: #cbff57;
 	background: linear-gradient(to bottom right, #aff60e, #deff95);
+	box-shadow: 10px 10px 10px #b0b0b0;
 }
 
 #connect {
@@ -116,6 +117,7 @@ a:visited {
 /*	background-color: #cbff57;*/
 	background: #cbff57;
 	background: linear-gradient(to bottom right, #aff60e, #deff95);
+	box-shadow: 10px 10px 10px #b0b0b0;
 }
 
 /*This is for the contact form
